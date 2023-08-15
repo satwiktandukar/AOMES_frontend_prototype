@@ -1,16 +1,25 @@
-# test
+# Educational Quiz App
 
-A new Flutter project.
+A small demo project on flutter for a basic quiz app. 
+
+## Backend : https://github.com/satwiktandukar/AOMES_backend_prototype.git
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+  $ git clone https://github.com/satwiktandukar/AOMES_frontend_prototype.git
+   
+2. Install dependencies:
+  $ cd ./AOMES_frontend_prototype
+  $ flutter packages get 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+4. Run the backend server on localhost.
+  
+5. Run it.
+  $ flutter run --no-sound-null-safety
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Notes. 
+-> Check the ~/snap/ folder for the flutter packages. 
+
+
